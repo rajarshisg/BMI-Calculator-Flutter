@@ -3,7 +3,7 @@
 
 
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/55212405/79672698-1f92bb00-81f2-11ea-975e-69b875a4fef4.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/55212405/79672698-1f92bb00-81f2-11ea-975e-69b875a4fef4.gif\ width=100)
 
 
 
